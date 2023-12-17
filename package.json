@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "chromedriver": "^112.0.0",
+    "geckodriver": "^3.2.0",
+    "selenium-webdriver": "^4.9.0"
+  }
+}
